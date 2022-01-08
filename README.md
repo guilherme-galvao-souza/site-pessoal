@@ -1,2 +1,2 @@
 # site-pessoal
-Primeiro site que faço utilizando apenas HTML.
+Primeiro site que fiz utilizando apenas HTML.
